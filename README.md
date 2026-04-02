@@ -1,3 +1,5 @@
+Download full project here: https://drive.google.com/file/d/13BfkQhg90JhOuax264QW60cvmJLloYd_/view?usp=sharing
+
 # AI Lawyer Assistant
 
 A JavaFX desktop assistant that helps draft legal case analysis from text or uploaded documents, then generates clear arguments and counter-arguments.
